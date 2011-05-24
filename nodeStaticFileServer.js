@@ -27,4 +27,4 @@ http.createServer(function(request, response) {
 		});
 	});
 }).listen(8080);
-sys.puts("http://localhost:8080/");
+sys.putssys.puts("http://localhost:8080/ ,if you are running this locally.");
